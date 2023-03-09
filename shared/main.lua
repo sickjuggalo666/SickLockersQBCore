@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Target = 'ox_target'
+Config.Target = 'ox_target' -- i will add qb target compat if needed or you can if you know!
 
 Config.location = {
     {
